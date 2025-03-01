@@ -1,7 +1,7 @@
-baseURL = "https://example.com"
+baseURL = "https://skpuindo.com"
 languageCode = "en"
 DefaultContentLanguage = "en"
-title = "Website of Jane Doe"
+title = "S. K. Puindo"
 
 # theme as hugo module
 #theme = "github.com/lxndrblz/anatole"
@@ -11,8 +11,6 @@ theme = "anatole"
 summarylength = 10
 enableEmoji = true
 enableRobotsTXT = true
-
-
 
 # Syntax highlighting
 pygmentsUseClasses = true   

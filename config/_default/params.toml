@@ -1,8 +1,8 @@
 
-title = "I'm Jane Doe"
-author = "Jane Doe"
+title = "S. K. Puindo"
+author = "S. K. Puindo"
 #copyright = "2020-2021"
-description = "Call me Jane"
+description = "dark epic fantasy author"
 profilePicture = "images/profile.jpg"
 keywords = ""
 favicon = "favicons/"
@@ -10,7 +10,7 @@ favicon = "favicons/"
 customCss = []
 # example ["js/custom.js"]
 customJs = [] 
-mainSections = ["post"]
+mainSections = ["blog"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
 # Form Spree Contact Form
@@ -20,9 +20,9 @@ doNotLoadAnimations = false
 #googleFonts = ["Indie+Flower", "Roboto:ital,wght@0,100;0,400;0,700;1,400"]
 # Google Site Verify
 #googleSiteVerify = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
-singleDateFormat = "2/1/2006"
-indexDateFormat = "2/1/2006"
-listDateFormat = "2/1/2006"
+singleDateFormat = "2006.02.01"
+indexDateFormat = "2006.02.01"
+listDateFormat = "2006.02.01"
 # Commento Comments
 # CommentoURL = "https://commento.example.com/js/commento.js"
 # Read More links for truncated summaries
@@ -56,25 +56,25 @@ use = "katex"  # options: "katex", "mathjax". default is "katex".
 
 ## Social links
 # use 'fa-brands' when brand icons, use 'fas' when standard solid icons.
-[[socialIcons]]
-icon = "fa-brands fa-linkedin"
-title = "Linkedin"
-url = "https://de.linkedin.com/"
-
-[[socialIcons]]
-icon = "fa-brands fa-github"
-title = "GitHub"
-url = "https://github.com/lxndrblz/anatole/"
-
-[[socialIcons]]
-icon = "fa-brands fa-instagram"
-title = "instagram"
-url = "https://www.instagram.com/"
+#[[socialIcons]]
+#icon = "fa-brands fa-linkedin"
+#title = "Linkedin"
+#url = "https://de.linkedin.com/"
+#
+#[[socialIcons]]
+#icon = "fa-brands fa-github"
+#title = "GitHub"
+#url = "https://github.com/lxndrblz/anatole/"
+#
+#[[socialIcons]]
+#icon = "fa-brands fa-instagram"
+#title = "instagram"
+#url = "https://www.instagram.com/"
 
 [[socialIcons]]
 icon = "fa-solid fa-envelope"
 title = "e-mail"
-url = "mailto:mail@example.com"
+url = "mailto:sin@skpuindo.com"
 
 [mermaid]
 # enable = true
