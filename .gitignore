@@ -1,0 +1,11 @@
+# local scripting
+remote.sh
+
+# tmp files
+.DS_Store
+*.swp
+
+# hugo
+.hugo_build.lock
+public
+_gen
