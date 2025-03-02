@@ -13,7 +13,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     brand_image = '/images/jessdunnthis_spider.png'
     description = "S. K. Puindo <br /><small>dark epic fantasy author</small>" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
-    # favicon = "favicon.png"             # path to favicon (defaults to favicon.png)
+    favicon = "favicon.ico"             # path to favicon (defaults to favicon.png)
 
     front_page_content = ["blog"] # Equivalent to the default value, add page bundle names to include them on the front page.
 
