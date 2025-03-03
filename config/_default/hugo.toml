@@ -31,9 +31,9 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     # Links to your socials.  Comment or delete any you don't need/use.
     email_url = "mailto://sin@skpuindo.com"
     bluesky_url = "https://bsky.app/profile/skpuindo.bsky.social"
+    mastodon_url = "https://mastodon.sdf.org/@skpuindo"
 
     # TODO
-    #mastodon_url = "https://mastodon.social"
     #facebook_url = "https://facebook.com"
     #instagram_url = "https://instagram.com"
     #youtube_url = "https://youtube.com"
