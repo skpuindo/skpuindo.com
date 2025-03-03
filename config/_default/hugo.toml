@@ -32,6 +32,7 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
     email_url = "mailto://sin@skpuindo.com"
     bluesky_url = "https://bsky.app/profile/skpuindo.bsky.social"
     mastodon_url = "https://mastodon.sdf.org/@skpuindo"
+    reddit_url = "https://www.reddit.com/user/skpuindo/"
 
     # TODO
     #facebook_url = "https://facebook.com"
