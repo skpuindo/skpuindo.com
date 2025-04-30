@@ -1,7 +1,7 @@
 booksitems:
   # books category
   - title: Books
-    description: 'S. K. Puindo books'
+    description: 'S.K. Puindo books'
     booksitem:
       - name: Book 1 of The Prophet trilogy
         image: '/images/books/code.jpg'

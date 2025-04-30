@@ -1,7 +1,7 @@
 ---
 title: 'Books'
 layout: single
-description: 'S. K. Puindo books'
+description: 'S.K. Puindo books'
 ---
 
 # Book 1 of The Prophet trilogy

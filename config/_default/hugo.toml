@@ -1,7 +1,7 @@
 baseURL = 'https://skpuindo.com/'
 languageCode = 'en-us'
-title = 'S. K. Puindo'
-description = "S. K. Puindo, dark epic fantasy author" # Used as default meta description if not specified in front matter
+title = 'S.K. Puindo'
+description = "S.K. Puindo, dark epic fantasy author" # Used as default meta description if not specified in front matter
 theme = 'poison'
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
@@ -9,9 +9,9 @@ pluralizelisttitles = false   # removes the automatically appended "s" on sideba
 # disqusShortname = "yourDisqusShortname"
 
 [params]
-    brand = "S. K. Puindo"                      # name of your site - appears in the sidebar
+    brand = "S.K. Puindo"                      # name of your site - appears in the sidebar
     brand_image = '/images/jessdunnthis_spider.png'
-    description = "S. K. Puindo <br /><small>dark epic fantasy author</small>" # Used as default meta description if not specified in front matter
+    description = "S.K. Puindo <br /><small>dark epic fantasy author</small>" # Used as default meta description if not specified in front matter
     dark_mode = true                      # optional - defaults to false
     favicon = "favicon.ico"             # path to favicon (defaults to favicon.png)
 
