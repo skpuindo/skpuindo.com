@@ -165,7 +165,7 @@ defaultContentLanguageInSubdir = false
     [params.neso.home]
       display_mode                     = "profile"
       [params.neso.home.list]
-        featured_entries_limit         = 2
+        featured_entries_limit         = 0
       [params.neso.home.profile]
         #avatar_image                   = "img/avatar.png"
         #avatar_image_alt_text          = "S.K. Puindo's profile photo"
