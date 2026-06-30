@@ -1,0 +1,42 @@
+---
+title: "The third act: agency and transformation"
+date: 2026-06-29
+draft: true
+tags: ["structure", "character", "writing"]
+---
+
+[Unknown origin](https://quoteinvestigator.com/2015/09/05/up-tree/):
+
+    In act one, chase your character up a tree.
+    In act two, throw stones at them.
+    In act three, get them back down.
+
+This is an elegant analogy that I learned when I first started studying the three act structure. And yet it's wrong. Specifically, the description of the third act.
+
+## Agency
+
+First, "*get them back down*". With that wording, *deus ex machina* is acceptable. Or a completely passive protagonist that cowers in a corner as other characters save them.
+
+They need to find their own way down from the tree.
+
+## Transformation
+
+    In act one, chase your character up a tree.
+
+    In act two, throw stones at them.
+
+    In act three, the character undergoes a *permanent* and *fundamental* change.
+    It is this change that allows them to get themselves down from the tree.
+
+I'm not certain where I read this, or who to attribute it to. I did find [this tweet from @storyandplot](https://x.com/storyandplot/status/1881000772617318757) that carries the same message.
+
+This change is essential in dramatic character arcs.
+
+## Resolution
+
+The analogy assumes getting down from the tree is the end state of the story. But:
+
+- in their transformation, the character could sprout wings and fly to their cliffside aerie.
+- the character could form a community with others trapped in the trees. Together they build a treetop civilization that spans the canopy of the great forest.
+- the character rallies the others trapped in the trees, and wages war with the evil stone throwers.
+- the character realizes they have committed unspeakable, unforgivable acts of betrayal against the antagonist. They accept their death by stoning.

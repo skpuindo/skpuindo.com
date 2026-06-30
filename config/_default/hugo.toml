@@ -1,7 +1,7 @@
 baseURL = 'https://skpuindo.com/'
 languageCode = 'en-us'
-title = 'S.K. Puindo'
-description = "S.K. Puindo, dark epic fantasy author" # Used as default meta description if not specified in front matter
+title = 'S. K. Puindo'
+description = "S. K. Puindo, dark epic fantasy author" # Used as default meta description if not specified in front matter
 theme = 'poison'
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
 
