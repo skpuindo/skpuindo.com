@@ -9,3 +9,4 @@ remote.sh
 .hugo_build.lock
 public
 _gen
+themes
