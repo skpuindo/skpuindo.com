@@ -4,9 +4,13 @@ remote.sh
 # tmp files
 .DS_Store
 *.swp
+node_modules/
 
 # hugo
 .hugo_build.lock
-public
 _gen
-themes
+/public/
+/resources/_gen/
+/assets/jsconfig.json
+hugo_stats.json
+/.hugo_build.lock
