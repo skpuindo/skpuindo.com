@@ -138,7 +138,7 @@ defaultContentLanguageInSubdir = false
     ext_link_no_opener_referrer        = true
     ext_link_new_window                = true
     [params.neso.branding]
-      logo_text                        = "Neso"
+      logo_text                        = "S.K. Puindo"
       hide_logo_text                   = false
       logo_image                       = "img/logo.svg"
       logo_image_dark                  = "img/logo_dark.svg"
@@ -146,7 +146,7 @@ defaultContentLanguageInSubdir = false
       favicon_ico                      = "favicon.ico"
       favicon_svg                      = "img/metadata/favicon.svg"
       apple_touch_icon                 = "img/metadata/apple-touch-icon.png"
-      pwa_short_title                  = "Neso"
+      pwa_short_title                  = "S.K. Puindo"
       pwa_theme_color_light            = "#f5f6f7"
       pwa_theme_color_dark             = "#000000"
       pwa_icon_svg                     = "img/metadata/pwa-icon.svg"
@@ -157,7 +157,7 @@ defaultContentLanguageInSubdir = false
       pwa_icon_maskable_512            = "img/metadata/pwa-icon-maskable-512.png"
     [params.neso.social]
       [[params.neso.social.links]]
-        name                           = "Blue Sky"
+        name                           = "BlueSky"
         url                            = "https://bsky.app/profile/skpuindo.com"
       [[params.neso.social.links]]
         name                           = "Mastodon"
@@ -167,8 +167,8 @@ defaultContentLanguageInSubdir = false
       [params.neso.home.list]
         featured_entries_limit         = 2
       [params.neso.home.profile]
-        avatar_image                   = "img/avatar.png"
-        avatar_image_alt_text          = "Neso's profile photo"
+        #avatar_image                   = "img/avatar.png"
+        #avatar_image_alt_text          = "S.K. Puindo's profile photo"
         [[params.neso.home.profile.link_btns]]
           label                        = "Posts"
           url                          = "posts/"
@@ -182,7 +182,7 @@ defaultContentLanguageInSubdir = false
       show_breadcrumbs                 = true
       show_prev_next                   = true
       show_share                       = true
-      share_providers                  = ["facebook", "linkedin", "reddit", "x"]
+      share_providers                  = ["bluesky", "reddit", "x", "facebook", "linkedin", "reddit"]
     [params.neso.seo]
       site_description                 = "Dark epic fantasy author"
       site_keywords                    = ["epic fantasy", "dark epic fantasy", "writing", "story structure", "outlining", "S. K. Puindo"]
