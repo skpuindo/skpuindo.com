@@ -136,6 +136,8 @@ defaultContentLanguageInSubdir = false
 # ================================
 
 [params]
+  [params.article]
+    bluesky                            = "skpuindo.com"
   [params.neso]
     #time_format                        = "2006 January 02"
     time_format                        = "2006.01.02"
