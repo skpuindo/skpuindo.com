@@ -6,7 +6,7 @@ theme = "hugo-neso"
 
 enableRobotsTXT                = true
 
-mainSections                   = ["posts"]
+mainSections                   = ["posts", "about"]
 pluralizeListTitles            = false
 
 timeZone                       = "US/Mountain"
@@ -71,6 +71,11 @@ defaultContentLanguageInSubdir = false
 
 [languages.en.menus]
   [[languages.en.menus.main]]
+    identifier = "about"
+    name       = "About"
+    pageRef    = "/about"
+    weight     = 5
+  [[languages.en.menus.main]]
     identifier = "posts"
     name       = "Posts"
     pageRef    = "/posts"
@@ -132,7 +137,8 @@ defaultContentLanguageInSubdir = false
 
 [params]
   [params.neso]
-    time_format                        = "2006 January 02"
+    #time_format                        = "2006 January 02"
+    time_format                        = "2006.01.02"
     show_breadcrumbs                   = true
     ext_link_indicator                 = true
     ext_link_no_opener_referrer        = true
@@ -167,15 +173,18 @@ defaultContentLanguageInSubdir = false
       [params.neso.home.list]
         featured_entries_limit         = 2
       [params.neso.home.profile]
-        #avatar_image                   = "img/avatar.png"
-        #avatar_image_alt_text          = "S.K. Puindo's profile photo"
+        avatar_image                   = "img/jessdunnthis_spider.png"
+        avatar_image_alt_text          = "S.K. Puindo's profile photo"
         [[params.neso.home.profile.link_btns]]
           label                        = "Posts"
           url                          = "posts/"
+        [[params.neso.home.profile.link_btns]]
+          label                        = "About"
+          url                          = "about/"
     [params.neso.list]
       prominent_first_entry            = true
       disable_responsive_cover_image   = false
-      hide_summary                     = true
+      hide_summary                     = false
     [params.neso.page]
       ext_link_indicator               = true
       ext_link_no_opener_referrer      = true
