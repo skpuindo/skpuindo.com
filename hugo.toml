@@ -192,6 +192,7 @@ defaultContentLanguageInSubdir = false
       show_breadcrumbs                 = true
       show_prev_next                   = true
       show_share                       = true
+      enable_comments                  = true
       share_providers                  = ["bluesky", "reddit", "x", "facebook", "linkedin", "reddit"]
     [params.neso.seo]
       site_description                 = "Dark epic fantasy author"
