@@ -42,8 +42,6 @@ jobs:
         with:
           submodules: recursive
           fetch-depth: 0
-      - name: Install tailwindcss
-        run: sudo npm install --save-dev tailwindcss @tailwindcss/cli
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5

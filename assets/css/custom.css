@@ -71,33 +71,29 @@ filter: brightness(1.1);
 }
 
 .button-link:hover {
-  filter: brightness(0.9);
+  filter: brightness(0.9); /* Slightly decrease brightness on hover */
 }
 }
-
-.comment-interactions-icon {
-  white-space: nowrap;
-  display: inline-flex;
-  padding-right: 10px;
-  height: 100%
+.username-link {
+  font-weight: bold;
+  color: var(--link-color);
+  text-decoration: none;
 }
 
-.comment-interactions-icon::after {
-  content: "\200B";
+.username-link:hover {
+  text-decoration: underline;
 }
 
-.comment-interactions-icon > svg {
-  stroke: var(--tw-prose-lead);
-  stroke-linejoin: round;
-  stroke-linecap: round;
-  fill: none;
-  display: block;
-  margin: auto;
-  margin-right: 5px;
-  width: 21px;
-  height: 21px;
+.comment-meta {
+  display: flex;
+  gap: 15px;
+  margin-top: 10px;
+  font-size: 0.9em;
+  color: gray;
 }
 
-.#comment-interactions-icon > svg:is(.dark *) {
-  stroke: var(--tw-prose-invert-lead);
+.meta-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
 }

@@ -10,8 +10,8 @@ keywords        : ["SEO keyword 1", "SEO keyword 2", "SEO keyword 3"]
 tags            : ["tag a", "tag b", "tag c"]
 
 params:
-  comments:
-    id          : false  # bsky post id
+#  comments:
+#    id          : ""  # bsky post id
   neso:
     show_toc    : false  # show the table of contents
 #    cover:     # cover image settings (remove this whole block if you have no cover)

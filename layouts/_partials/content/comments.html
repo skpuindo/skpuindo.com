@@ -121,7 +121,7 @@
           })
           .catch(error => {
               console.error("Error fetching comments:", error);
-              commentList.innerHTML = "<p>Error loading comments.</p>";
+              commentList.innerHTML = "<p>Error loading comments.</p>" + error;
           });
   });
 </script>
