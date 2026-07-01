@@ -2,6 +2,7 @@
 title           : "{{ .File.ContentBaseName | humanize | replaceRE `\s+` " " | title }}"
 date            : {{ .Date }}
 slug            : "{{ .File.ContentBaseName | urlize }}"  # slug (URL segment) for this post
+draft           : true
 
 description     : "Enter the post description (a short SEO-friendly blurb)"
 summary         : "Enter a brief summary of the post (used in list previews)"
