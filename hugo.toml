@@ -6,7 +6,7 @@ theme = "hugo-neso"
 
 enableRobotsTXT                = true
 
-mainSections                   = ["posts", "about"]
+mainSections                   = ["posts", "books"]
 pluralizeListTitles            = false
 
 timeZone                       = "US/Mountain"
@@ -71,9 +71,9 @@ defaultContentLanguageInSubdir = false
 
 [languages.en.menus]
   [[languages.en.menus.main]]
-    identifier = "about"
-    name       = "About"
-    pageRef    = "/about"
+    identifier = "books"
+    name       = "Books"
+    pageRef    = "/books"
     weight     = 5
   [[languages.en.menus.main]]
     identifier = "posts"
@@ -179,8 +179,8 @@ defaultContentLanguageInSubdir = false
           label                        = "Posts"
           url                          = "posts/"
         [[params.neso.home.profile.link_btns]]
-          label                        = "About"
-          url                          = "about/"
+          label                        = "Books"
+          url                          = "books/"
     [params.neso.list]
       prominent_first_entry            = true
       disable_responsive_cover_image   = false
