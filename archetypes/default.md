@@ -4,6 +4,7 @@ date            : {{ .Date }}
 slug            : "{{ .File.ContentBaseName | urlize }}"  # slug (URL segment) for this post
 draft           : true
 
+blueskythread   : false  # bsky post id
 description     : "Enter the post description (a short SEO-friendly blurb)"
 summary         : "Enter a brief summary of the post (used in list previews)"
 keywords        : ["SEO keyword 1", "SEO keyword 2", "SEO keyword 3"]
